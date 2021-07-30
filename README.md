@@ -7,7 +7,7 @@ Life is a 50-50 poll
 # Phrase of the day
 Shot in the dark (Taking a wild guess)
 
-# Things learnt during the whole session:
+# Introduction
 The sergeant at arms greets the fellow toastmasters and welcomes the guests in a bright, joyful manner. Then, goes on to mentioning the guidelines that are to be followed during the whole meet.
 
        i.	Do not unmute yourself unless you are the speaker taking the virtual stage.
@@ -70,7 +70,7 @@ The evaluators give their evaluations one after the other about their respective
 
 The evaluators generally provide a report on the good things, the things that need to be improved and the challenges that could be taken in the future.
 
-# Some evaluations:
+# Some evaluations
 
      Hand gestures are important.
      
@@ -82,6 +82,8 @@ The evaluators generally provide a report on the good things, the things that ne
      
      Look at the camera when speaking.
      
+# Conclusion
+
 The timer provides their report on the time taken by each speaker.
 
 The ah-counter showcases their report on the number of times unnecessary words are used by every one of them.
@@ -90,7 +92,6 @@ The grammarian come up with their report on the good and not-so-good usages and 
 
 The listener comes up with his/her questions and the one who answers the most questions will receive the “listener of the day” award. 
 
-# End
 The session comes to an end with the feedback from the guests followed by the announcement of the winners.
 
 
