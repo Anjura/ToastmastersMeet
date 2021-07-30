@@ -31,12 +31,12 @@ The general evaluator explains how the session goes and introduces the members o
 # Three Sessions
 The whole meet is divided into three sessions
 
-     a.	Prepared speech session: The speaker gets to speak for 5-7 minutes and could deliver a speech that was prepared
+     a.Prepared speech session: The speaker gets to speak for 5-7 minutes and could deliver a speech that was prepared
              before-hand.
       
-     b.	Table-topic session: Random topics will be presented and anyone can speak up. The speaker can speak for 1-2 minutes.
+     b.Table-topic session: Random topics will be presented and anyone can speak up. The speaker can speak for 1-2 minutes.
       
-     c.	General Evaluation session: The general evaluator gives his/her evaluation on the meeting and the speakers.
+     c.General Evaluation session: The general evaluator gives his/her evaluation on the meeting and the speakers.
              The evaluators for the speakers present their evaluations too.
   
 # Roles
